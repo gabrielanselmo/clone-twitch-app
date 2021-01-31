@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Twitch App UI Clone
+  Twitch App Clone (DarkMode)
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielanselmo/twitch-app-ui-clone">
